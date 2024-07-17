@@ -1,0 +1,14 @@
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\bin\Debug\net8.0\AnimalApp.exe
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\bin\Debug\net8.0\AnimalApp.deps.json
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\bin\Debug\net8.0\AnimalApp.runtimeconfig.json
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\bin\Debug\net8.0\AnimalApp.dll
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\bin\Debug\net8.0\AnimalApp.pdb
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\AnimalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\AnimalApp.AssemblyInfoInputs.cache
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\AnimalApp.AssemblyInfo.cs
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\AnimalApp.csproj.CoreCompileInputs.cache
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\AnimalApp.dll
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\refint\AnimalApp.dll
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\AnimalApp.pdb
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\AnimalApp.genruntimeconfig.cache
+C:\Users\K.I.R.A\Documents\Programacion\Deberes Programacion\Programacion Examen y Reto\AnimalApp\obj\Debug\net8.0\ref\AnimalApp.dll
